@@ -87,7 +87,7 @@ public class BiomesConfig implements IBiomesConfig {
 
 	@Override
 	public void setTypeWhiteList(List<BiomeTypeHolder> whiteList) {
-		this.typeWhiteList = whiteList;
+		// TODO Auto-generated method stub
 		
 	}
 
@@ -98,6 +98,7 @@ public class BiomesConfig implements IBiomesConfig {
 
 	@Override
 	public void setTypeBlackList(List<BiomeTypeHolder> blackList) {
-		this.typeBlackList = blackList;		
+		// TODO Auto-generated method stub
+		
 	}
 }

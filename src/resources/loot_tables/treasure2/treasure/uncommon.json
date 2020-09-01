@@ -1,5 +1,4 @@
 {
-	"version": "1.0",
 	"pools": [
 		{
 			"name": "uncommon_keys",
@@ -127,14 +126,8 @@
 							}
 						}
 					]
-				}
+				}				
 			]
-		},
-		{
-			"name": "uncommon_charms",
-			"rolls": 1,
-			"entries": [	
-			]
-		}		
+		}
 	]
 }

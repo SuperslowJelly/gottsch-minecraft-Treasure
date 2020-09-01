@@ -1,5 +1,4 @@
 {
-	"version": "1.0",
 	"pools": [
 		{
 			"name": "treasure",
@@ -15,17 +14,6 @@
                 }
 			]
 		},	
-		{
-			"name": "charms",
-			"rolls": 1,
-			"entries": [
-                {
-                    "type": "loot_table",
-                    "name": "treasure2:loot_tables/treasure2/treasure/rare_charms",
-                    "weight": 1
-                }
-			]
-		},				
 		{
 			"name": "items",
 			"rolls": {
@@ -85,7 +73,7 @@
 		{
 			"name": "potions",
 			"rolls": {
-				"min": 0,
+				"min": 1,
 				"max": 2
 			},
 			"entries": [

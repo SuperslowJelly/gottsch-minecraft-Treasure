@@ -1,5 +1,4 @@
 {
-	"version": "1.0",
 	"pools": [
 		{
 			"name": "scarce_keys",
@@ -152,13 +151,6 @@
 						}
 					]
 				}
-			]
-		},
-		{
-			"name": "scarce_charms",
-			"rolls": 1,
-			"entries": [
-
 			]
 		}
 	]
